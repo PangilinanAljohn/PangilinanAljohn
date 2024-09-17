@@ -14,13 +14,6 @@
 - 💼 I'm open to collaborating on interesting projects, especially ones that involve PHP and React.js.
 
 
-<br/><br/> 
-
-
-🌐 https://aljohnpangilinan.netlify.app/
-
-
-
 <br/>  
 
 
