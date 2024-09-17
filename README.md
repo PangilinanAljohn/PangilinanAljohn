@@ -1,24 +1,23 @@
+<img src="https://raw.githubusercontent.com/PangilinanAljohn/React-Portfolio-Website/main/src/assets/cover-photo.jpg" align="center" style="width: 100%" />
 
-<img src="https://i.redd.it/i03fnmea06331.jpg" align="center" style="width: 100%" />
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<br/>  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=1000&color=FFFFFF&width=435&lines=Hi+there!+👋+I'm+Aljohn)](https://git.io/typing-svg)
-  
+
 
 - 🔭 I’m currently working as Software Engineer   
   
 
-- 🌱 I’m currently learning React.js and Node.js  
+- 🚀 I’m currently learning React.js and Node.js
+
+
+- 💼 I'm open to collaborating on interesting projects, especially ones that involve PHP and React.js.
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Tech Stacks 
 <table>
   <tr>
   <td valign="top" width="50%">
@@ -73,10 +72,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/PangilinanAljohn/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aljohn-pangilinan/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href= "mailto: pangilinan.aljohn@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  </a> 
+  <a href="https://github.com/PangilinanAljohn/" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/aljohn-pangilinan/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
 </div>  
